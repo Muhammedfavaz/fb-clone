@@ -1,0 +1,377 @@
+.container{
+    width: 1511px;
+    height: 700px;
+    background:#f0f2f5;
+    padding-top: 110px;
+}
+.semi-box{
+    width: 1185px;
+    height: 655px;
+    background: #f0f2f5;
+    margin-left: 172px;
+}
+.logo{
+    width: 50%;
+    padding-top: 50px;
+    float: left;
+    
+}
+.logo-text{
+    font-size: 60px;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #3e70dc ;
+    margin-left: 70px;
+    margin-right: 224px;
+    cursor: pointer;
+    
+}
+.content{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 548px;
+    margin-left: 93px;
+    margin-top: -37px;
+}
+.login-area{
+
+    width: 35%;
+    height: 395px;
+
+  
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    background:#fff;
+    float: left;
+    margin-left: 90px;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+
+}
+.ty-email{
+    width: 364px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 21px;
+
+    font-size: 16px;
+    border-radius: 7px;
+    border-color: #f5f2f2;
+    
+
+
+}   
+.ty-pass{
+    width: 364px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 21px;
+
+    font-size: 16px;
+    border-radius: 7px;
+    border-color: #f5f2f2;
+
+}
+.log-button{
+    width: 364px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 21px;
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: bold;
+    border-radius: 7px;
+    background-color: #166fe5;
+    border: #3e70dc;
+    color: white;
+
+}
+.forgotten{
+    margin-top: 15px;
+   text-align: center;
+    color: #166fe5;
+    font-size: 16px;
+    cursor: pointer;
+}
+.forgotten:hover{
+    text-decoration: underline;
+}
+
+
+.new-acct{
+  
+
+   font-size: 17px;
+    border: none;
+    background-color: #42b72a;
+    border-radius: 9px;
+    width: 199px;
+    height: 53px;
+    font-weight: bold;
+    color: #ffffffff;
+    margin-left: 110px;
+   
+}
+.sub1{
+   
+    float: left;
+    font-weight: bold;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    margin-left: 735px;
+    font-size: 14px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 5px;
+    color: black;
+    
+}
+.sub1:hover{
+    text-decoration: underline;
+}
+
+.new-page{
+    float: left;
+    margin-left: 1px;
+
+    
+}
+
+    
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background: #fff;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    color: #737373;
+    font-size: 12px;
+    padding-top: 25px;
+    
+    
+    
+}
+
+.footer1{
+    margin-left: 260px;
+    float: left;
+       
+}
+.ftr-2{
+    margin-left: 9px;
+    float: left;
+    
+   
+}
+.ftr-3{
+    margin-left: 9px;
+    float: left;
+    
+   
+}
+.ftr-4{
+    margin-left: 9px;
+    float: left;
+   
+}
+.ftr-5{
+    margin-left: 9px;
+    float: left;
+}
+.ftr-6{
+    margin-left: 9px;
+    float: left;
+}
+.ftr-7{
+    margin-left: 9px;
+    float: left;
+}
+.ftr-8{
+    margin-left: 9px;
+    float: left;
+}
+.ftr-9{
+    margin-left: 9px;
+    float: left;
+}
+.ftr-10{
+    margin-left: 9px;
+    float: left;
+}.ftr-11{
+    margin-left: 9px;
+    float: left;
+}
+.ftr-btn{
+    margin-left: 11px;
+    width: 33px;
+    font-weight: bolder;
+    font-size: 21px;
+    height: 26px;
+    text-align: center;
+    color: #737373;
+    cursor: pointer;
+}
+.footer-line{
+    margin-left: -4px;
+    margin-top: 9px;
+    color: #737373;
+    
+       
+}
+.survice{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;  
+    color: #737373; 
+    margin-left: 260px;
+    float: left;
+}
+.f1{
+    cursor: pointer;
+    float: left;
+}
+.f2{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.f3{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+
+}
+.f4{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.f5{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.f6{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.f7{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.f8{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.f9{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.a1{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.a2{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.a3{
+    margin-left: 20px;
+    float: left; 
+    cursor: pointer;
+}
+.a4{
+    margin-left:20px;
+    float: left;
+    cursor: pointer;
+}
+.a5{
+    margin-left:20px;
+    float: left;
+    cursor: pointer;
+}
+.a6{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.a7{
+    margin-left: 0px;
+    float: left;
+    cursor: pointer;
+}
+.a8{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.a9{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b1{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b2{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b3{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b4{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b5{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b6{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b7{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b8{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.b9{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.c1{
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+.c2{
+    margin-left: 0px;
+    float: left;
+    cursor: pointer;
+}
+body{
+    margin: 0px;
+    
+}
